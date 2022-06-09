@@ -1,4 +1,4 @@
-function numbersOnly(){
+function numbersOnly(T, testStr){
 var result = 0;
 
 //checks whether the element in the string is a number, converts it to an
